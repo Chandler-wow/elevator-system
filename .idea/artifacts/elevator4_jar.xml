@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="elevator4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/elevator4_jar</output-path>
+    <root id="archive" name="elevator4.jar">
+      <element id="module-output" name="elevator4" />
+    </root>
+  </artifact>
+</component>
