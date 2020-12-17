@@ -27,11 +27,11 @@ public class aboutJPanel extends JPanel {
         g.setFont(new Font("楷体",Font.BOLD,18));
         g.drawString("软件工程第16组",245,60);
 
-        g.drawString("汪嘉富",280,130);
-        g.drawString("颜浩楠",280,150);
-        g.drawString("胡言数",280,170);
-        g.drawString("李桐凤",280,190);
-        g.drawString("张鹤宁",280,210);
+        g.drawString("wjf",280,130);
+        g.drawString("yhn",280,150);
+        g.drawString("hys",280,170);
+        g.drawString("ltf",280,190);
+        g.drawString("zhn",280,210);
 
 
     }
